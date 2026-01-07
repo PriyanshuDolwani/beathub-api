@@ -1,2 +1,5 @@
 # beathub-api
-# syuyudh
+
+Welcome to the backend of BeatHub.
+- Status: Initial Setup
+- Developer: [Priyanshu Dolwani]
